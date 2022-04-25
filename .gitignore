@@ -7,6 +7,7 @@
 !.stylelintrc.json
 !README.md
 !index.html
+!gulpfile.js
 
 !css/
 !img/
